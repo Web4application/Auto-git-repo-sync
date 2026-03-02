@@ -1,4 +1,4 @@
-# it3xl.ru git-repo-sync https://github.com/it3xl/git-repo-sync
+# it3xl.ru git-repo-sync https://github.com/web4application/auto-git-repo-sync
 
 set -euf +x -o pipefail
 
