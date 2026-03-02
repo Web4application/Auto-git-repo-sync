@@ -1,5 +1,5 @@
 # git-repo-sync
-
+ 
 ## Synchronization of Branches of Remote Git-repositories
 
 The **git-repo-sync** synchronizes branches between two remote Git-repositories.<br/>
