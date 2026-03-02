@@ -1,4 +1,4 @@
-# it3xl.ru git-repo-sync https://github.com/it3xl/git-repo-sync
+# qubuhub.re auto-git-repo-sync https://github.com/web4application/auto-git-repo-sync
 #
 ## Post your questions on https://github.com/it3xl/git-repo-sync/issues
 ## I will be glad to explain the ambiguities and to improve this instruction for others.
@@ -6,7 +6,7 @@
 
 # Configure location of your remote Git repositories.
 #
-url_a=https://example.com/git/my_repo.git
+url_a=https://codeberg.com/git/my_repo.git
 #
 url_b='/c/my-folder/my-local-git-repo-folder'
 
