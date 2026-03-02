@@ -6,7 +6,7 @@
 
 # Configure location of your remote Git repositories.
 #
-url_a=https://codeberg.com/git/my_repo.git
+url_a=https://example.com/git/my_repo.git
 #
 url_b='/c/my-folder/my-local-git-repo-folder'
 
